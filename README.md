@@ -1,1 +1,1 @@
-Solution and Archictecture digram for TechTestApp Servian
+Solution and Architecture diagram for TechTestApp Servian
